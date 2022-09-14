@@ -1,0 +1,58 @@
+[
+  {
+    "id": 0,
+    "marca": "Lenovo",
+    "precio": 100000,
+    "cantidad": 1,
+    "img": "./img/lenovo.png"
+  },
+  {
+    "id": 1,
+    "marca": "Dell",
+    "precio": 150000,
+    "cantidad": 1,
+    "img": "./img/dell.jpg"
+  },
+  {
+    "id": 2,
+    "marca": "Exo",
+    "precio": 200000,
+    "cantidad": 1,
+    "img": "./img/exo.png"
+  },
+  {
+    "id": 3,
+    "marca": "Apple",
+    "precio": 300000,
+    "cantidad": 1,
+    "img": "./img/macbook.jpg"
+  },
+  {
+    "id": 4,
+    "marca": "Iphone 14 pro Max",
+    "precio": 350000,
+    "cantidad": 1,
+    "img": "./img/iphone.jpg"
+  },
+  {
+    "id": 5,
+    "marca": "Samsung S22 plus",
+    "precio": 300000,
+    "cantidad": 1,
+    "img": "./img/samsung.jpg"
+  },
+  {
+    "id": 6,
+    "marca": "Motorola g20",
+    "precio": 300000,
+    "cantidad": 1,
+    "img": "./img/motorola.jpg"
+  },
+  {
+    "id": 7,
+    "marca": "Huawei nova9",
+    "precio": 250000,
+    "cantidad": 1,
+    "img": "./img/huawei.jpg"
+  }
+]
